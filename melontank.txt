@@ -1,0 +1,13 @@
+
+"melontank"
+{
+	"base"		"base"
+	"title"		"Saikred's Melon Tank"
+	"maps"		"^mt_"
+	"menusystem"	"1"
+	"author_name"	"Saikred"
+	"author_email"	"sacred1337@gmail.com"
+	"author_url"	"kickass-servers.net"
+	"description"	"The enemy attacks and must be destroyed!"
+	"entry_id"	"2"
+}
